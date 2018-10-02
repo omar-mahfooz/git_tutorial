@@ -1,0 +1,1 @@
+to test how pulling works when, master branch is ahead of origin/remote branch. I will pull from the origin/remote to the master to see if it takes changes
